@@ -8,6 +8,7 @@ public class UrlConfig {
             "/v3/api-docs/**",
             "/swagger-ui.html",
             "/v3/api-docs",
-            "/test/**"
+            "/test/**",
+            "/address/find-by-id/**"
     };
 }
